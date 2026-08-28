@@ -52,7 +52,7 @@ The public release does not include raw sequencing reads, large intermediate fil
 
 ## Related public work
 
-The public site collects the broader research portfolio at [Research & People](https://kays3.github.io/research/). The full working repository remains private at [TE_Ocean_Acidification](https://github.com/Kays3/TE_Ocean_Acidification).
+The public site collects the broader research portfolio at [Research & People](https://kays3.github.io/research/).
 
 ## License
 
