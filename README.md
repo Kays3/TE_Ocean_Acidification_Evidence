@@ -57,3 +57,7 @@ The public site collects the broader research portfolio at [Research & People](h
 ## License
 
 MIT. Figures remain attributed to their original project sources.
+
+## Connected research and visuals
+
+[Read the doctoral research summary](https://kays3.github.io/research/#ocean-acidification) and [see the reef illustration gallery](https://kays3.github.io/research/fish-illustrations/). Related but separate projects include the [Entacmaea transcriptome notebook](https://github.com/Kays3/entacmea-research) and the [early-stage anemonefish–anemone TE hypothesis](https://github.com/Kays3/TE_Anemonefish_Symbiosis). Reef imagery is context, not evidence of the experimental outcome.
